@@ -1,5 +1,5 @@
 {
-	Name: "日本語訳修正mod",
+	Name: "Japanese Language Fix",
 	Description: "ゲーム内の不自然な日本語訳を修正します。",
 	
 	Tags: [ "Languages"],
