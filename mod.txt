@@ -5,4 +5,5 @@
 	Tags: [ "Languages"],
 	
 	ChangeNote: "First release",
+	ChangeNote: "動作しない問題を修正",
 }
