@@ -2,7 +2,7 @@
 	Name: "日本語訳修正mod",
 	Description: "ゲーム内の不自然な日本語訳を修正します。",
 	
-	Tags: [ "Translation"],
+	Tags: [ "Languages"],
 	
 	ChangeNote: "First release",
 }
